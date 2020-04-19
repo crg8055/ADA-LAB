@@ -1,4 +1,4 @@
-include <stdio.h> 
+#include <stdio.h> 
 #include <stdlib.h> 
 int _lis(int arr[], int n, int* max_ref) 
 { 
